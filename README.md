@@ -1,2 +1,2 @@
-# Segment_Tree_Visualizer
- Advanced Data Structure
+# segmentTreeVisualizer
+ segment tree visualizer using javascript
